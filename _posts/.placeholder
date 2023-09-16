@@ -1,1 +1,9 @@
+---
+title: Aesthetic Timer App ⌚
+author: elias
+date: 2023-06-11 12:00:00 +2
+categories: [Project Showcase, Mobile Apps]
+tags: [timer, app, flutter, portfolio]
+---
 
+Aesthetic Timer is a simple timer app built with Flutter using the BLoC pattern for state management and Rive for the cool animation. I made this app in practice for using **state machines** in rive while I continuously learn neat ways to implement the **bloc pattern**.
