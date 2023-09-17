@@ -63,7 +63,7 @@ Here's a glimpse of the usecases that power Lap Quest (written in Dart code):
 
 Embark on your Lap Quest journey by following these simple steps:
 
-1. Clone the project from the [Lap Quest Repository link](https://github.com/eliascreates/lap_quest)..
+1. Clone the project from the [GitHub repository link](https://github.com/eliascreates/lap_quest).
 1. Refer to the comprehensive setup instructions in the README to get the app up and running.
 
 ## Project Struture
