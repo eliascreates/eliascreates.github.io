@@ -1,56 +1,26 @@
-# Chirpy Starter
+# Elias Kekana Portfolio
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to my portfolio repository! This repository contains the source code and content for my personal portfolio website.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## About
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+This portfolio showcases my work as a Flutter developer and provides a glimpse into my projects, skills, and interests. It's designed to highlight my experience, expertise, and contributions to the tech community.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Features
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
-
-## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
+- **Projects:** Explore a variety of projects I've worked on, ranging from Flutter apps to web development and more.
+- **Skills:** Discover the technologies, languages, and tools I'm proficient in.
+- **Blog:** Read my tech-related blog posts, tutorials, and insights.
+- **Contact:** Get in touch with me for collaboration, job opportunities, or just to say hello.
 
 ## Usage
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+To view my portfolio website, visit [eliascreates.github.io](https://eliascreates.github.io).
 
 ## License
 
-This work is published under [MIT][mit] License.
+This project is licensed under the [MIT License](LICENSE).
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## Contact
+
+Feel free to reach out to me. You can find my contacts [here](https://eliascreates.github.io) for any inquiries.
