@@ -51,7 +51,7 @@ _Interstellar Insight In Action_
   ![Settings - Screen (Dark Theme)](screenshots/setting/settings_screen_dark.png){: .shadow .rounded-10 width="155" height="320" .normal}
 
 *see more screenshots on [github repository link](https://github.com/eliascreates/interstellar_insight)*
-<img src="screenshots/blank.png" alt="Invisible Image" width="50" height="0" style="opacity: 0; pointer-events: none;">
+<img src="screenshots/blank.png" alt="Invisible Image" width="50" height="50" style="opacity: 0; pointer-events: none;">
 
 ## Project Structure 📁
 
@@ -63,7 +63,7 @@ _Interstellar Insight In Action_
     - `episodes/` focuses on the episodes of the series.
     - `locations/` invites you to explore the various locations and the notable characters residing within.
 
-![Project Structure](screenshots/project_structure.png){: .w-50 .shadow .rounded-10 w='1212' h='668'}
+![Project Structure](screenshots/project_structure.png){: .w-75 .shadow .rounded-10 w='650' h='668'}
 
 ### Data Source 🌌
 *Interstellar Insight* connects to the "Final Space" API to retrieve data which you can find *[here](https://finalspaceapi.com/)*
@@ -76,7 +76,7 @@ _Interstellar Insight In Action_
 
 With both light and dark themes, you may select your theme preference.
 
-![Light and Dark Themes](screenshots/interstellar_insight_theme.png){: .w-50 .shadow .rounded-10 w='1212' h='668'}
+![Light and Dark Themes](screenshots/interstellar_insight_theme.png){: .w-75 .shadow .rounded-10 w='650' h='668'}
 
 ## Getting Started
 
