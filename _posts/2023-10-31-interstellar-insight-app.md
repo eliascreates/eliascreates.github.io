@@ -13,7 +13,7 @@ image:
 
 Interstellar Insight, meticulously crafted with Flutter and Clean Architecture. It is a mobile application dedicated to fans of the popular TV series "Final Space." This app offers an immersive experience for fans, providing them with valuable information about the show's characters, episodes, and locations. Dive into the Final Space universe and explore various aspects of the series with ease.
 
-![Interstellar Insight Gif](screenshots/interstellar_insight_gif.gif){: .w-75 .shadow .rounded-10 w='1212' h='668'}
+![Interstellar Insight Gif](screenshots/interstellar_insight_gif.gif){: .w-75 .shadow .rounded-10 w='650' h='668'}
 _Interstellar Insight In Action_
 
 ## Features
@@ -23,6 +23,34 @@ _Interstellar Insight In Action_
 - **Unveil Notable Locations**: Explore memorable locations featured in the show.
 - **Stunning Animations**: beautifully crafted animations, providing a visually appealing experience.
 - **Light and Dark Themes**: Offers both light and dark themes to cater to your preference.
+
+## Screenshots 📸
+
+### Characters
+
+![Characters - Detail Screen](screenshots/character/characters_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - Detail Screen (Dark Theme)](screenshots/character/characters_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - Feature Screen](screenshots/character/characters_feature_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - Feature Screen (Dark Theme)](screenshots/character/characters_feature_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}
+
+![Characters - List Screen](screenshots/character/characters_list_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - List Screen (Dark Theme)](screenshots/character/characters_list_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - Simple Screen](screenshots/character/characters_simple_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - Simple Screen (Dark Theme)](screenshots/character/characters_simple_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}
+
+### Locations
+
+![Locations - Screen](screenshots/location/locations_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Locations - Screen (Dark Theme)](screenshots/location/locations_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Locations - Detail Screen](screenshots/location/locations_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Locations - Detail Screen (Dark Theme)](screenshots/location/locations_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}
+
+### Settings
+
+![Settings - Screen](screenshots/setting/settings_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Settings - Screen (Dark Theme)](screenshots/setting/settings_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}
+
+*see more screenshots on [github repository link](https://github.com/eliascreates/interstellar_insight)*
 
 ## Project Structure 📁
 
@@ -34,21 +62,20 @@ _Interstellar Insight In Action_
     - `episodes/` focuses on the episodes of the series.
     - `locations/` invites you to explore the various locations and the notable characters residing within.
 
-![Project Structure](screenshots/project_structure.png){: .w-75 .shadow .rounded-10 w='1212' h='668'}
+![Project Structure](screenshots/project_structure.png){: .w-50 .shadow .rounded-10 w='1212' h='668'}
+
+### Data Source 🌌
+*Interstellar Insight* connects to the "Final Space" API to retrieve data which you can find *[here](https://finalspaceapi.com/)*
 
 ## Managing State with BLoC 🧠
 
 *Interstellar Insight* effectively manages the state of the app using the Business Logic Component (BLoC) pattern. This pattern is a game-changer, offering a clear separation of UI and business logic, ensuring a seamless user experience.
 
-## Data Source: "Final Space" API 🌌
-
-*Interstellar Insight* connects to the "Final Space" API to retrieve data, ensuring that fans have access to the latest and most accurate information from the show.
-
-## Your Personalized Theme Experience 🌓
+## Theming 🌓
 
 With both light and dark themes, you may select your theme preference.
 
-![Light and Dark Themes](screenshots/interstellar_insight_theme.png){: .w-75 .shadow .rounded-10 w='1212' h='668'}
+![Light and Dark Themes](screenshots/interstellar_insight_theme.png){: .w-50 .shadow .rounded-10 w='1212' h='668'}
 
 ## Getting Started
 
@@ -62,40 +89,9 @@ Following these simple steps:
 Are you eager to contribute to the development of *Interstellar Insight*? Here's how you can get involved:
 
 1. Fork the project on GitHub.
-2. Create a feature branch to implement your changes.
-3. Submit a pull request, providing a detailed description of your changes and their purpose.
+1. Create a feature branch to implement your changes.
+1. Submit a pull request, providing a detailed description of your changes and their purpose.
 1. Participate in the code review process to help make the project even better.
-
-## A Visual Journey through Interstellar Insight 📸
-
-### Characters
-
-![Characters - Detail Screen](screenshots/character/characters_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Characters - Detail Screen (Dark Theme)](screenshots/character/characters_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
-
-![Characters - Feature Screen](screenshots/character/characters_feature_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Characters - Feature Screen (Dark Theme)](screenshots/character/characters_feature_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
-
-![Characters - List Screen](screenshots/character/characters_list_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Characters - List Screen (Dark Theme)](screenshots/character/characters_list_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
-
-![Characters - Simple Screen](screenshots/character/characters_simple_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Characters - Simple Screen (Dark Theme)](screenshots/character/characters_simple_screen_dark.png){: .shadow .rounded-10 w='155' h='320'}
-
-### Locations
-
-![Locations - Screen](screenshots/location/locations_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Locations - Screen (Dark Theme)](screenshots/location/locations_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
-
-![Locations - Detail Screen](screenshots/location/locations_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Locations - Detail Screen (Dark Theme)](screenshots/location/locations_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320'}
-
-*see more screenshots on [github repository link](https://github.com/eliascreates/interstellar_insight)*
-
-### Settings
-
-![Settings - Screen](screenshots/setting/settings_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Settings - Screen (Dark Theme)](screenshots/setting/settings_screen_dark.png){: .shadow .rounded-10 w='155' h='320'}
 
 ## License 📜
 
