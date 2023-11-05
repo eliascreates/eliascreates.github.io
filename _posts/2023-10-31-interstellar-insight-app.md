@@ -50,7 +50,8 @@ _Interstellar Insight In Action_
   ![Settings - Screen](screenshots/setting/settings_screen.png){: .shadow .rounded-10 width="155" height="320" .left}
   ![Settings - Screen (Dark Theme)](screenshots/setting/settings_screen_dark.png){: .shadow .rounded-10 width="155" height="320" .normal}
 
-*see more screenshots on [github repository link](https://github.com/eliascreates/interstellar_insight)*
+*see more screenshots on [github repository link](https://github.com/eliascreates/interstellar_insight)*  
+
 <img src="screenshots/blank.png" alt="Invisible Image" width="50" height="50" style="opacity: 0; pointer-events: none;">
 
 ## Project Structure 📁
