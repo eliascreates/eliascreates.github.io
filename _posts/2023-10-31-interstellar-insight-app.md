@@ -30,11 +30,11 @@ _Interstellar Insight In Action_
 
 ![Characters - Detail Screen](screenshots/character/characters_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
 ![Characters - Detail Screen (Dark Theme)](screenshots/character/characters_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Characters - Feature Screen](screenshots/character/characters_feature_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - Feature Screen](screenshots/character/characters_feature_screen.png){: .shadow .rounded-10 w='155' h='320' .normal}
 ![Characters - Feature Screen (Dark Theme)](screenshots/character/characters_feature_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}
 
 ![Characters - List Screen](screenshots/character/characters_list_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Characters - List Screen (Dark Theme)](screenshots/character/characters_list_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
+![Characters - List Screen (Dark Theme)](screenshots/character/characters_list_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}
 ![Characters - Simple Screen](screenshots/character/characters_simple_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
 ![Characters - Simple Screen (Dark Theme)](screenshots/character/characters_simple_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}  
 
@@ -42,8 +42,8 @@ _Interstellar Insight In Action_
 
 ![Locations - Screen](screenshots/location/locations_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
 ![Locations - Screen (Dark Theme)](screenshots/location/locations_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Locations - Detail Screen](screenshots/location/locations_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .left}
-![Locations - Detail Screen (Dark Theme)](screenshots/location/locations_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal }  
+![Locations - Detail Screen](screenshots/location/locations_detail_screen.png){: .shadow .rounded-10 w='155' h='320' .normal}
+![Locations - Detail Screen (Dark Theme)](screenshots/location/locations_detail_screen_dark.png){: .shadow .rounded-10 w='155' h='320' .normal}  
 
 ### Settings
 
@@ -51,8 +51,6 @@ _Interstellar Insight In Action_
   ![Settings - Screen (Dark Theme)](screenshots/setting/settings_screen_dark.png){: .shadow .rounded-10 width="155" height="320" .normal}
 
 *see more screenshots on [github repository link](https://github.com/eliascreates/interstellar_insight)*  
-
-<img src="screenshots/blank.png" alt="Invisible Image" width="50" height="50" style="opacity: 0; pointer-events: none;">
 
 ## Project Structure 📁
 
